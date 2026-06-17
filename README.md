@@ -22,7 +22,7 @@
 
 ```yaml
 nombre:     Andrés Medina
-rol:        IT Engineer
+rol:        IT Analyst
 empresa:    Nubank Colombia 💜
 ubicación:  Colombia 🇨🇴
 
